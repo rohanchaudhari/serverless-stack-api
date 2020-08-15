@@ -20,6 +20,7 @@ provider:
   runtime: nodejs12.x
   stage: dev
   region: us-east-1
+  profile: pocadmin
   # These environment variables are made available to our functions
   # under process.env.
   # These environment variables are made available to our functions
